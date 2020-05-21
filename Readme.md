@@ -1,4 +1,4 @@
-# Multi Face-mask detection using SSD:-
+# Multi Face-mask detection using SSD
 
 ## Prerequisites :-
 
