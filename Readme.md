@@ -1,12 +1,12 @@
-#Multi Face-mask detection using SSD:-
+# Multi Face-mask detection using SSD:-
 
-##Prerequisites :-
+## Prerequisites :-
 
 * [OpenCV]()
 * [Tensorflow]()
 * [Numpy]()
 
-##Project Structure:-
+## Project Structure:-
    .
     ├── mask_detector                 # Contains all project files.
     ├    ├── images                   # Images used throughout project.
@@ -20,7 +20,7 @@
     └── README.md                # Readme file
     
     
-##Usage:-
+## Usage:-
 
 ### Through Python file:
 
